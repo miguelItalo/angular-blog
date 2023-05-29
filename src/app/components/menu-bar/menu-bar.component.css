@@ -1,0 +1,5 @@
+.menu-bar-container > nav{
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+}
